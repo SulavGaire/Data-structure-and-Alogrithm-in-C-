@@ -84,15 +84,15 @@ int main()
     do
     {   
         cout<<"What operation do you want to perform ? Select Option Number. Enter 0 to exit."<<endl;
-        cout<<"1,Push()"<<endl;
-        cout<<"2,Pop()"<<endl;
-        cout<<"3,isEmpty()"<<endl;
-        cout<<"4,isFull()"<<endl;
-        cout<<"5,peek()"<<endl;
-        cout<<"6,count()"<<endl;
-        cout<<"7,change()"<<endl;
-        cout<<"8,display()"<<endl;
-        cout<<"9,Clear Screen"<<endl;
+        cout<<"1.Push()"<<endl;
+        cout<<"2.Pop()"<<endl;
+        cout<<"3.isEmpty()"<<endl;
+        cout<<"4.isFull()"<<endl;
+        cout<<"5.peek()"<<endl;
+        cout<<"6.count()"<<endl;
+        cout<<"7.change()"<<endl;
+        cout<<"8.display()"<<endl;
+        cout<<"9.Clear Screen"<<endl;
 
         cin>>option;
         switch(option){
