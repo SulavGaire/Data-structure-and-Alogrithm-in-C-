@@ -26,3 +26,6 @@ Stack is a **linear data structure** which operates in a *LIFO(Last In First Out
 5. Used in many algorithms like Tower of Hanoi, tree traversals, stock span problem, histogram problem.
 6. Other applications can be Backtracking, Knight tour problem, rat in a maze, N queen problem and sudoku solver
 7. In Graph Algorithms like Topological Sorting and Strongly Connected Components
+
+# 
+[**Back to readme**](../README.md)
