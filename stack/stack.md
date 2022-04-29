@@ -27,5 +27,8 @@ Stack is a **linear data structure** which operates in a *LIFO(Last In First Out
 6. Other applications can be Backtracking, Knight tour problem, rat in a maze, N queen problem and sudoku solver
 7. In Graph Algorithms like Topological Sorting and Strongly Connected Components
 
+# code
+-[Stack Implementation](stack1.cpp)
+
 # 
 [**Back to readme**](../README.md)
